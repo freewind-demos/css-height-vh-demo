@@ -1,8 +1,9 @@
-Css Hello World Demo
+Css Height "vh" Demo
 ====================
 
-Use css in html pages.
+使用'vh'作为单位时，它将始终以viewport作为基准来计算长宽，不受其它元素（如上下级元素的高宽）影响，
+在某些情况下（比如要求某个dialog始终显示在屏幕中间）非常有用
 
-Open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
+```
+npm run demo
+```
