@@ -5,5 +5,5 @@ Css Height "vh" Demo
 在某些情况下（比如要求某个dialog始终显示在屏幕中间）非常有用
 
 ```
-npm run demo
+npm start
 ```
